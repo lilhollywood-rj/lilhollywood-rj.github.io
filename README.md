@@ -1,18 +1,25 @@
-## Welcome to GitHub Pages
+# Welcome to Lilhollywood-rj's Homepage
 
-You can use the [editor on GitHub](https://github.com/lilhollywood-rj/lilhollywood-rj.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## My first project
+*This project was jsut a simple name presenter.
+*It's unfinished.
+https://studio.code.org/projects/applab/5_Qyy3nDJqSJnM7-ra8MLdM_XcdhULs7c28yB-GkHc4
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## My very first game!
+*This game was created based off of my knowkledge of variables and greater than and less than.
+*Enjoy!
+https://scratch.mit.edu/projects/246827317/
 
-```markdown
-Syntax highlighted code block
+## My Second game!
+*This game was created for the use of 4-8 year olds.
+*Enjoy!
+https://scratch.mit.edu/projects/261884943/
 
-# Header 1
-## Header 2
+
+
+
 ### Header 3
 
 - Bulleted
