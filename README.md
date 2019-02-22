@@ -3,8 +3,8 @@
 
 
 ## Clicker game
-**Avengers Infiniy War clicker game**
-*It's unfinished.*
+**Avengers Infiniy War clicker game.**
+*(It's unfinished.)*
 https://studio.code.org/projects/applab/5_Qyy3nDJqSJnM7-ra8MLdM_XcdhULs7c28yB-GkHc4
 [code.org](https://studio.code.org/projects/applab/5_Qyy3nDJqSJnM7-ra8MLdM_XcdhULs7c28yB-GkHc4)
 
@@ -17,14 +17,14 @@ https://scratch.mit.edu/projects/246827317/
 
 ## ABC Cruisin'
 **This game was created for the use of 4-8 year olds.**
-*Enjoy!*
+*(Enjoy!)*
 https://scratch.mit.edu/projects/261884943/
 [scratch.mit.edu](https://scratch.mit.edu/projects/261884943/)
 
 
 ## Chatbot
 **Getting to know you talking computer.**
-*done but not done*
+*(done but not done)*
 https://repl.it/@lilhollywood_rj/Chatbot
 [repl.it](https://repl.it/@lilhollywood_rj/Chatbot)
 
