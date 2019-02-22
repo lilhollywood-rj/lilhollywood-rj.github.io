@@ -2,25 +2,40 @@
 
 
 
-## My first project
-*This project was jsut a simple name presenter.
-*It's unfinished.
-https://studio.code.org/projects/applab/5_Qyy3nDJqSJnM7-ra8MLdM_XcdhULs7c28yB-GkHc4
+## Name Presenter
+This project was just a simple name presenter.
+*It's unfinished.*
+https://studio.code.org/projects/applab/5_Qyy3nDJqSJnM7-ra8MLdM_XcdhULs7c28yB-GkHc4 - automatic!
+[code.org](https://studio.code.org/projects/applab/5_Qyy3nDJqSJnM7-ra8MLdM_XcdhULs7c28yB-GkHc4)
 
-## My very first game!
-*This game was created based off of my knowkledge of variables and greater than and less than.
-*Enjoy!
-https://scratch.mit.edu/projects/246827317/
 
-## My Second game!
-*This game was created for the use of 4-8 year olds.
-*Enjoy!
+## ABC game
+**This game was created based off of my knowkledge of variables and greater than and less than.**
+*Enjoy!*
+https://scratch.mit.edu/projects/246827317/ - automatic!
+[scratch.mit.edu](https://scratch.mit.edu/projects/246827317/)
+
+## ABC Cruisin'
+**This game was created for the use of 4-8 year olds.**
+*Enjoy!*
 https://scratch.mit.edu/projects/261884943/
 
 
+## Chatbot
+**Getting to know you talking computer.**
+*done but not done*
+https://repl.it/@lilhollywood_rj/Chatbot
 
 
-### Header 3
+## Art Project (Python)
+**Nothing special**
+https://repl.it/@lilhollywood_rj/Art-project
+
+
+## Rock, Paper, Scissors
+https://repl.it/@lilhollywood_rj/Paper-Rock-Scissors
+
+
 
 - Bulleted
 - List
